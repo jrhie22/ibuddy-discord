@@ -1,0 +1,525 @@
+    [{
+        "question": "I’ve been accepted, what’s next?",
+        "answer": "Congrats on being accepted to GW! Once you accept your offer and pay your deposit, the Global & Experiential Education (G&EE) team will contact you with instructions on how to get your I-20. In the meantime, you can check the How to Obtain Your I-20 webpage for some helpful information, but note that it will be updated every semester, and funding details will change once program costs are finalized. G&EE helps many students each semester, so please wait for us to contact you before sending any I-20 documents.",
+        "links": [
+            {
+                "text": "How to Obtain Your I-20",
+                "source": "https://business.gwu.edu/visa-forms"
+            }
+        ]
+    },
+    {
+        "question": "Does GW offer any scholarships and additional funding?",
+        "answer": "For more information about funding opportunities, check out the following websites: Office of Graduate Student Assistantships and Fellowships Office of Financial Aid GWSB Funding Your Graduate Education",
+        "links": [
+            {
+                "text": "Office of Graduate Student Assistantships and Fellowships",
+                "source": "https://gradfellowships.gwu.edu/"
+            },
+            {
+                "text": "Office of Financial Aid",
+                "source": "https://financialaid.gwu.edu/"
+            },
+            {
+                "text": "GWSB Funding Your Graduate Education",
+                "source": "https://business.gwu.edu/funding-your-graduate-education"
+            }
+        ]
+    },
+    {
+        "question": "Can my dependents come with me to the US?",
+        "answer": "Yes! You can bring your spouse and/or children under 21 years old with you. To do this, send G&EE the Dependent Information Form , a copy of each dependent’s passport, and proof of extra funding for each dependent for each year. Only your spouse and children under 21 can come as dependents. Parents, grandparents, children over 21, and other individuals cannot get F-2 or J-2 dependent visas.",
+        "links": [
+            {
+                "text": "Dependent Information Form",
+                "source": "https://graduate.admissions.gwu.edu/sites/g/files/zaxdzs6116/files/downloads/DependentInformation.pdf"
+            }
+        ]
+    },
+    {
+        "question": "Can GW or G&EE assist in making a visa appointment?",
+        "answer": "Unfortunately, the visa process is not controlled by GW or the International Services Office (ISO), so we cannot help schedule your visa appointment. We recommend checking your U.S. consulate’s website often, because new appointments can become available at any time. In some cases, F-1 visa students can ask for an expedited visa appointment. To do this: First, schedule the next available appointment, even if it’s later than you want. Then, you can request an earlier appointment through the consulate’s website. If you want to request an expedited appointment, G&EE can give you a support letter on GW letterhead. This letter will include your degree program and when you are expected to arrive on campus. This letter may help you secure an earlier appointment, but it is not guaranteed. To request this letter, email G&EE at sbglobal@gwu.edu .",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "What do I do if my visa is not approved by the start of classes?",
+        "answer": "For Fall 2025 students, it is best to arrive on campus by the first day of classes, August 25. However, if you are an AMBA, MS, or PhD student, you can arrive as late as September 7 if you have flight issues, visa delays, or other problems outside your control. If you cannot arrive by September 7, you will need to defer your admission to a future semester. If you plan to arrive after August 25, please email G&EE at sbglobal@gwu.edu as soon as possible. GMBA students must arrive by July 28 for the start of GMBA International Runway. If you cannot arrive by that date, contact G&EE right away at sbglobal@gwu.edu .",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "Can I defer to a future semester?",
+        "answer": "If you want to start your program in a future semester, you can defer your admission to the next available start date. Each program has different start dates, so contact the GWSB Graduate Admissions team at business@gwu.edu or the GW MS in Finance team (for MSF and MSAF students) at gwmsf@gwu.edu to learn more about deferring.",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "Does GW have resources for international students?",
+        "answer": "The International Services Office (ISO) is the main office that supports international students at GW. The ISO can help you with: Visa rules and travel information Work options for international students Events for international students Academic and career support ISO offers support services with advisors , International Student Community Ambassadors , and a resource library to help you during your time at GW. If you have questions, you can email ISO at iso@gwu.edu .",
+        "links": [
+            {
+                "text": "International Services Office",
+                "source": "https://internationalservices.gwu.edu/"
+            },
+            {
+                "text": "advisors",
+                "source": "https://internationalservices.gwu.edu/iso-advising-services"
+            },
+            {
+                "text": "International Student Community Ambassadors",
+                "source": "https://internationalservices.gwu.edu/international-student-community-ambassadors"
+            },
+            {
+                "text": "resource library",
+                "source": "https://internationalservices.gwu.edu/gw-international-community-resource-library"
+            }
+        ]
+    },
+    {
+        "question": "How can I connect with current students?",
+        "answer": "Sometimes, it helps to talk to someone who has been through the same experience and understands how you feel! The GWSB International Student Advisory Board (ISAB) is comprised of international students from each graduate program at GWSB, and they are a great resource for new international students. You can contact any ISAB member with your questions or concerns, even if they are not in your program—they are here to help you!",
+        "links": [
+            {
+                "text": "GWSB International Student Advisory Board",
+                "source": "https://business.gwu.edu/current-students/international/international-student-advisory-board-isab"
+            }
+        ]
+    },
+    {
+        "question": "I’ve received my visa, what’s next?",
+        "answer": "Prior to coming to campus, we suggest completing the following steps: Submit all official transcripts and test scores to the GWSB Graduate Admissions team at business@gwu.edu or the GWSB MS in Finance Program team at gwmsf@gwu.edu Mark your calendar and register for the following orientation sessions: For AMBA, MS, and PhD students: ISO New Student Orientation GWSB International Student Orientation For GMBA students: GMBA International Runway GMBA Runway Contact your degree Program Manager to confirm the date and time of your Program-Specific Orientation session. If you haven't already done so, be sure to also discuss your classes with your Program Manager and register for your courses. If you are under 26 years old, upload your required immunization documentation .",
+        "links": [
+            {
+                "text": "required immunization documentation",
+                "source": "https://healthcenter.gwu.edu/immunizations"
+            }
+        ]
+    },
+    {
+        "question": "Does GW offer orientation sessions for new students?",
+        "answer": "As a new international graduate student at GWSB, you must attend several orientation sessions: For AMBA, MS, and PhD international students, you are required to attend three (3) orientations: ISO Orientation – For all new international students at GW. GWSB International Orientation – For all new international graduate students at the School of Business. Program Orientation – For your specific program. Contact your Program Manager for details. For international GMBA students, you must attend: GMBA International Runway – Contact G&EE for more information. GMBA Runway – Contact the GMBA Program team for details. For more information, visit the G&EE Orientation webpage .",
+        "links": [
+            {
+                "text": "G&EE Orientation webpage",
+                "source": "https://business.gwu.edu/academics/programs/international/international-student-services/incoming-international-students/orientation-and-newsletters"
+            }
+        ]
+    },
+    {
+        "question": "I can’t access my GW account, what do I do?",
+        "answer": "If you cannot access your GW email , contact the GW IT Department at ithelp@gwu.edu . Please note that they work with students across the university, so please allow a minimum of 3-5 business days to get a reply.",
+        "links": [
+            {
+                "text": "GW email",
+                "source": "https://www.gwu.edu/gw-email-calendar"
+            }
+        ]
+    },
+    {
+        "question": "Who is my academic advisor?",
+        "answer": "To find your academic advisor (also called a Program Manager) and schedule an appointment, head to the Graduate Program Academic Advisors & Appointment Scheduling webpage.",
+        "links": [
+            {
+                "text": "Graduate Program Academic Advisors & Appointment Scheduling",
+                "source": "https://business.gwu.edu/graduate-program-academic-advisors-appointment-scheduling"
+            }
+        ]
+    },
+    {
+        "question": "What classes do I register for?",
+        "answer": "Degree requirements are available online at the MBA Program and Specialized Master’s webpages. For specific guidance, please contact your Program Manager .",
+        "links": [
+            {
+                "text": "MBA Program",
+                "source": "https://business.gwu.edu/mba"
+            },
+            {
+                "text": "Specialized Master’s",
+                "source": "https://business.gwu.edu/academics/graduate"
+            },
+            {
+                "text": "Program Manager",
+                "source": "https://business.gwu.edu/graduate-program-academic-advisors-appointment-scheduling"
+            }
+        ]
+    },
+    {
+        "question": "Do I need immunizations?",
+        "answer": "D.C. law requires all students under 26 years old to submit proof of certain vaccines to the GW Student Health Center (SHC). You can find the list of required vaccines and information about how to submit your records or request an exemption on the SHC Immunization webpage . Note: New students under 26 years old can register for their first semester without submitting vaccine records. But if you don’t submit your records, a hold will be placed on your account that will prevent you from registering for classes in future semesters.",
+        "links": [
+            {
+                "text": "SHC Immunization webpage",
+                "source": "https://healthcenter.gwu.edu/immunizations"
+            }
+        ]
+    },
+    {
+        "question": "Does GW offer on-campus housing?",
+        "answer": "Due to limited space, GW does not offer on-campus housing for graduate students. However, there are many off-campus housing options available. Here are some helpful resources to get started: GW Off-Campus Housing Website – For GW students only. Includes rental listings and a “Find a Roommate” tool. Housing Guide for International Students – Created by GW’s International Student Community Ambassadors (ISCA) and includes tips about common housing choices. GW Off-Campus Student Affairs ( ocsa@gwu.edu ) – Offers helpful tools like: Off-Campus Living Guide Finding a Home Resource List FAQ for International Graduate Students",
+        "links": [
+            {
+                "text": "GW Off-Campus Housing Website",
+                "source": "https://www.gwoffcampus.com/"
+            },
+            {
+                "text": "Housing Guide for International Students",
+                "source": "https://internationalservices.gwu.edu/sites/g/files/zaxdzs6431/files/2024-03/isca-housing-guide-sp24-accessible.pdf"
+            },
+            {
+                "text": "GW Off-Campus Student Affairs",
+                "source": "https://offcampus.students.gwu.edu/"
+            },
+            {
+                "text": "Off-Campus Living Guide",
+                "source": "https://offcampus.students.gwu.edu/sites/g/files/zaxdzs5606/files/2024-04/off-campus-living-guide.pdf"
+            },
+            {
+                "text": "Finding a Home Resource List",
+                "source": "https://offcampus.students.gwu.edu/finding-home"
+            },
+            {
+                "text": "FAQ for International Graduate Students",
+                "source": "https://cdn.offcampusimages.com/public/resource/nqrshb7zy7dohhafhcig_lb4y1sola6agncs96qqmxo.pdf"
+            }
+        ]
+    },
+    {
+        "question": "What do I need to do after I arrive in the U.S.?",
+        "answer": "After you arrive in the U.S., you must complete two important steps related to your F-1 or J-1 status: Update your address in GWeb Complete ISO Check-In in the ISO Gateway You'll also want to get your GWorld card; instructions on how to get your GWorld Mobile Card are available on the GWorld website . For assistance with your GWorld Card, please contact the GWorld team at gworld@gwu.edu .",
+        "links": [
+            {
+                "text": "Update your address in GWeb",
+                "source": "https://internationalservices.gwu.edu/after-you-arrive"
+            },
+            {
+                "text": "ISO Gateway",
+                "source": "https://isogateway.gwu.edu/"
+            },
+            {
+                "text": "GWorld website",
+                "source": "https://gworld.gwu.edu/students"
+            }
+        ]
+    },
+    {
+        "question": "Can I get a job while I am enrolled in classes?",
+        "answer": "Employment regulations are different for F-1 and J-1 visa holders. F-1 Students: You can work on-campus up to 20 hours per week during the semester if you are a full-time student making good progress towards your degree. Learn more on the ISO’s On-Campus Employment page . You can find jobs on the GW Student Employment Learning in Action website. To work off-campus, you must be approved for Curricular Practical Training (CPT), which allows students to engage in internships related to their program. For CPT approval you must be in valid F-1 or J-1 status for at least one full academic year before applying (with some limited exceptions). Learn more on the ISO’s CPT page or email iso@gwu.edu . J-1 Students: You must get permission from the RO/ARO of the program that issued your DS-2019 before working. Not all J-1 sponsors allow employment, so check with your RO/ARO regarding your employment options. Learn more on the ISO’s J-1 Employment page .",
+        "links": [
+            {
+                "text": "ISO’s On-Campus Employment page",
+                "source": "https://internationalservices.gwu.edu/campus-employment-f-1"
+            },
+            {
+                "text": "GW Student Employment Learning in Action",
+                "source": "https://gwu-studentemployment.peopleadmin.com/"
+            },
+            {
+                "text": "ISO’s CPT page",
+                "source": "https://internationalservices.gwu.edu/curricular-practical-training-cpt"
+            },
+            {
+                "text": "J-1 Employment page",
+                "source": "https://internationalservices.gwu.edu/employment-j-1"
+            }
+        ]
+    },
+    {
+        "question": "How do I get authorized for Curricular Practical Training (CPT)?",
+        "answer": "Step-by-step instructions for CPT authorization can be found on the GWSB MBAD 6298 and CPT page . Note that GWSB graduate international students must be enrolled in MBAD 6298, the zero-credit Graduate Internship in Business and Management course, to receive CPT authorization. Instructions for registration in MBAD 6298 can be found on the GWSB MBAD 6298 and CPT page . For questions about MBAD 6298, please contact Global & Experiential Education (G&EE) at gwsbcpt@gwu.edu . For questions about CPT requirements or the authorization process, please contact the ISO at iso@gwu.edu . Detailed information about CPT can also be found on the ISO's CPT webpage .",
+        "links": [
+            {
+                "text": "GWSB MBAD 6298 and CPT page",
+                "source": "https://business.gwu.edu/current-students/international/curricular-practical-training"
+            },
+            {
+                "text": "GWSB MBAD 6298 and CPT page",
+                "source": "https://business.gwu.edu/current-students/international/curricular-practical-training"
+            },
+            {
+                "text": "ISO's CPT webpage",
+                "source": "https://internationalservices.gwu.edu/curricular-practical-training-cpt"
+            }
+        ]
+    },
+    {
+        "question": "What is Optional Practical Training (OPT), and how can I apply for it?",
+        "answer": "A detailed guide to Optional Practical Training (OPT), including information about what OPT is and how to apply for it, can be found on the ISO's Optional Practical Training (OPT) page . For questions about OPT, please contact the ISO directly at iso@gwu.edu . You can also attend an ISO Optional Practical Training (OPT) Workshop - information about upcoming OPT Workshops is available on the ISO's Events page .",
+        "links": [
+            {
+                "text": "ISO's Optional Practical Training (OPT) page",
+                "source": "https://internationalservices.gwu.edu/optional-practical-training-opt"
+            },
+            {
+                "text": "ISO's Events page",
+                "source": "https://internationalservices.gwu.edu/iso-events-programs"
+            }
+        ]
+    },
+    {
+        "question": "How do I open a bank account as an international student?",
+        "answer": "While you are in the U.S., you may want to open a bank account to make it easier to manage your money. Some banks allow you to open a checking account without a Social Security Number (SSN). Usually, for this, you need to bring two forms of ID, such as: A valid passport, and One of the following: Your GW student ID card, or A debit or credit card with your name on it Remember, banks establish their own policies to verify the identity of their customers, so they may ask for additional documentation to set-up your account.",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "Can I get a Social Security Number (SSN)?",
+        "answer": "A Social Security Number (SSN) is a 9-digit number given to people who are working in the U.S; SSNs are issued by the Social Security Administration. To get an SSN, international students must: Be fully checked in with the International Services Office (ISO) Be enrolled full-time at GW Have a job – You must show proof of employment when you apply. The Social Security Administration will not issue SSNs to international students who do not have verified employment. Visit the ISO’s Social Security & Taxes page for more instructions and information about required documents. If you have questions, email the ISO at iso@gwu.edu . Important: Social Security Numbers (SSNs) are not work authorization!",
+        "links": [
+            {
+                "text": "Social Security & Taxes page",
+                "source": "https://internationalservices.gwu.edu/social-security-taxes"
+            }
+        ]
+    },
+    {
+        "question": "How do I get a state-issued ID card?",
+        "answer": "To get a U.S. driver’s license or state ID, you must go to the Department of Motor Vehicles (DMV) in the state where you live. For a step-by-step guide, see the ISO’s Obtaining a Driver’s License/State ID document. Instructions by state: If you live in Washington, D.C.: D.C. Driver’s License for Non-U.S. Citizens If you live in Virginia: How to exchange a foreign license for a Virginia license If you live in Maryland: How to exchange a foreign license for a Maryland license Important: Bring the original copies of your documents to the DMV. Photocopies will not be accepted.",
+        "links": [
+            {
+                "text": "Obtaining a Driver’s License/State ID",
+                "source": "https://internationalservices.gwu.edu/sites/g/files/zaxdzs2486/f/downloads/Obtaining%20a%20US%20Drivers%20License%20or%20State%20ID%20JUNE%202015%20%28MAC%29.pdf"
+            },
+            {
+                "text": "D.C. Driver’s License for Non-U.S. Citizens",
+                "source": "https://dmv.dc.gov/node/1119126"
+            },
+            {
+                "text": "How to exchange a foreign license for a Virginia license",
+                "source": "https://www.dmv.virginia.gov/licenses-ids/license/applying/exchange-foreign-dl"
+            },
+            {
+                "text": "How to exchange a foreign license for a Maryland license",
+                "source": "https://mva.maryland.gov/drivers/Pages/md-drivers-license.aspx#mddlexchangingcountry"
+            }
+        ]
+    },
+    {
+        "question": "Do I need health insurance?",
+        "answer": "Yes! All international students with F-1 or J-1 visas must have health insurance while studying at GW. International students are automatically enrolled in the GW Student Health Insurance Plan (SHIP) through Aetna Student Health. If you have your own health insurance and want to opt out of GW SHIP, your alternate health insurance plan must meet certain criteria . To check if your alternate plan qualifies, email the GW SHIP team at ship@gwu.edu and include your insurance plan documentation. The SHIP team will review your plan and let you know if it meets the waiver criteria. If your plan is approved, you can apply for a waiver on the University Health Plans website: GW SHIP Waiver Form . Learn more about GW SHIP here: GW Student Health Center (SHC) – Health Insurance GW SHIP FAQs University Health Plans Aetna Student Health – 2024–2025 Plan Details",
+        "links": [
+            {
+                "text": "certain criteria",
+                "source": "https://www.universityhealthplans.com/custom/GWU-Waiver-Criteria.html"
+            },
+            {
+                "text": "GW SHIP Waiver Form",
+                "source": "https://www.universityhealthplans.com/secure/waiver.cgi?group_id=476"
+            },
+            {
+                "text": "GW Student Health Center (SHC) – Health Insurance",
+                "source": "https://healthcenter.gwu.edu/insurance"
+            },
+            {
+                "text": "GW SHIP FAQs",
+                "source": "https://healthcenter.gwu.edu/ship-frequently-asked-questions"
+            },
+            {
+                "text": "University Health Plans",
+                "source": "https://www.universityhealthplans.com/letters/letter.cgi?group_id=476"
+            },
+            {
+                "text": "Aetna Student Health – 2024–2025 Plan Details",
+                "source": "https://healthcenter.gwu.edu/sites/g/files/zaxdzs5621/files/2024-07/gwu-benefits-summary-2425.pdf"
+            }
+        ]
+    },
+    {
+        "question": "What is the American healthcare system like?",
+        "answer": "Healthcare in the U.S. is different from many other countries. In the U.S., people must buy health insurance to help pay for medical care. Health insurance is not free and is not provided by the government. When you buy health insurance, you will pay: A premium – The cost you pay each year to have insurance. A deductible – The amount you must pay for care before your insurance starts helping. A copay – A small fee you pay for things like doctor visits or medicine. It is important to get care from doctors or clinics that work with your insurance (called “in-network” providers). If you go to a place that is not in-network, you may have to pay more. As a student at GW, if you feel sick or have a minor injury, we recommend going to: The GW Student Health Center (SHC) - Tip: If you have GW SHIP, most preventative and routine procedures are fully covered at the SHC! A nearby urgent care clinic An in-network doctor In the U.S., most people only go to the Emergency Room (ER) if they experience a severe accident, are in immense pain, if their condition is life-threatening, or if they need urgent care and other clinics are closed. To learn more about health insurance in the U.S., visit the Aetna GWU International Student Health Insurance Fact page . If you have questions about GW SHIP, email the SHC SHIP team at ship@gwu.edu .",
+        "links": [
+            {
+                "text": "Aetna GWU International Student Health Insurance Fact page",
+                "source": "https://www.aetnastudenthealth.com/en/school/474952/members/WelcomeU_video.html"
+            }
+        ]
+    },
+    {
+        "question": "What do I do if I’m feeling sick?",
+        "answer": "If you are not feeling well, you should first go to the GW Student Health Center (SHC), located on campus. The SHC is open: Monday, Thursday, Friday: 8:30 AM – 5:00 PM Tuesday and Wednesday: 8:30 AM – 7:00 PM Saturday: 10:00 AM – 2:00 PM The SHC provides private and safe medical care for students. They help with: General health problems Mental health and emotional support Short-term psychiatric care and referrals If you need help when the SHC is closed, call the SHC Medical Assistance Line at (202) 994-5300. This line is open 24 hours a day, 7 days a week. You will speak to a medical professional who will help you decide what to do next. This might include a phone or video call with a doctor, an in-person visit, or a referral to another clinic or doctor.",
+        "links": [
+            {
+                "text": "GW Student Health Center",
+                "source": "https://t.e2ma.net/click/53456m/1kn8kk0/pbc0vxc"
+            },
+            {
+                "text": "General health problems",
+                "source": "https://healthcenter.gwu.edu/medical-services"
+            },
+            {
+                "text": "Mental health and emotional support",
+                "source": "https://healthcenter.gwu.edu/counseling-and-psychological-services"
+            },
+            {
+                "text": "Short-term psychiatric care and referrals",
+                "source": "https://healthcenter.gwu.edu/psychiatric-services"
+            }
+        ]
+    },
+    {
+        "question": "Does GWSB offer career services?",
+        "answer": "The F. David Fowler Career Center at the GW School of Business helps GWSB students with their career and job search goals. It offers special support for international students looking for jobs in the U.S., their home country, or elsewhere. At the Career Center, you can: Visit the Graduate Career Resources page for helpful tools and information. Make an appointment with a Career Consultant to get advice, improve your resume, or practice for interviews.",
+        "links": [
+            {
+                "text": "F. David Fowler Career Center",
+                "source": "https://business.gwu.edu/career-center"
+            },
+            {
+                "text": "Graduate Career Resources page",
+                "source": "https://business.gwu.edu/career-center/student-resources"
+            },
+            {
+                "text": "Make an appointment",
+                "source": "https://app.joinhandshake.com/login"
+            }
+        ]
+    },
+    {
+        "question": "How do I know what classes are being offered each semester?",
+        "answer": "The GW Schedule of Classes lists the available courses by term. The Schedule of Classes is updated prior to the start of registration for each semester to list the courses that will be offered that term. For information about future course offerings, please contact your GWSB Program Manager for guidance.",
+        "links": [
+            {
+                "text": "GW Schedule of Classes",
+                "source": "https://my.gwu.edu/mod/pws/"
+            },
+            {
+                "text": "GWSB Program Manager",
+                "source": "https://business.gwu.edu/graduate-program-academic-advisors-appointment-scheduling"
+            }
+        ]
+    },
+    {
+        "question": "How many credits do I need to take each semester as an international graduate student?",
+        "answer": "F-1 and J-1 graduate students are required to take at least nine (9) credits per semester to maintain their immigration status. There are limited cases in which F-1 and J-1 students can be enrolled in fewer credits (for example, students can be enrolled in fewer credits in their final term when fewer than nine credits are required to complete their degree program), however, this requires authorization from the ISO in the form of an approved Reduced Course Load (RCL) request. For questions about credits requirements and Reduced Course Load (RCL) requests, please contact the ISO at iso@gwu.edu .",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "How many online credits can I take each semester?",
+        "answer": "Regulations regarding online courses are different for F-1 and J-1 visa holders. F-1 Students: F-1 students (both new and continuing students) are only permitted to take three (3) credits online to be counted towards their full-time enrollment. This means that F-1 students must take at least six (6) in-person credits each semester to maintain their F-1 status. J-1 Students: J-1 students are not permitted to count any online courses towards their full-time enrollment. This means that J-1 students must take at least nine (9) in-person credits each semester to maintain their J-1 status. Please review your course registration every semester to ensure that you are registered for enough in-person credits to maintain your visa status. Failure to enroll in the correct number of in-person credits could jeopardize your F-1 or J-1 visa status. If you have questions about your enrollment, and if it meets the requirements to maintain your visa status, please contact your GWSB Program Manager or the ISO ( iso@gwu.edu ).",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "How can I meet with faculty/staff/professors at GW?",
+        "answer": "Many offices at GW have hybrid schedules, so staff and faculty may not always be on campus or available for walk-in visits. If you want to meet with someone (in person or online), we recommend sending them an email to schedule an appointment. This ensures that they are available and can give you the time and attention you need.",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "How can I get involved on campus?",
+        "answer": "The George Washington University has many student organizations for different interests, including sports, religion, culture, and academics. GW also has special organizations for graduate students at the Business School. To learn more about student groups and events: Visit the GW Engage website For Business School graduate student groups, check the GWSB Graduate Clubs and Organizations page .",
+        "links": [
+            {
+                "text": "GW Engage website",
+                "source": "https://gwu.campuslabs.com/engage/"
+            },
+            {
+                "text": "GWSB Graduate Clubs and Organizations page",
+                "source": "https://business.gwu.edu/current-students/graduate/student-engagement/graduate-clubs-organizations"
+            }
+        ]
+    },
+    {
+        "question": "What is the American education system like?",
+        "answer": "The American education system may be very different from what you are used to. In the classroom, students are encouraged to think critically, share their opinions, and work both alone and in groups. Classes usually include lectures, group projects, and independent study. American culture also values independence, self-reliance, and time management. This means students are expected to go to class regularly, finish all assignments on time, ask for help when they need it, and take responsibility for their own learning.",
+        "links": [
+            "https://business.gwu.edu/gwsb-international-student-faq"
+        ]
+    },
+    {
+        "question": "What rights do international students have?",
+        "answer": "All people living in the United States have certain U.S. Constitutional rights. Visit the American Civil Liberties Union (ACLU)'s Know Your Rights page for information about what your rights are, how to exercise them, and what to do if your rights are violated. You can find Know Your Rights resources in sixteen different languages in addition to English.",
+        "links": [
+            {
+                "text": "American Civil Liberties Union (ACLU)'s Know Your Rights page",
+                "source": "https://www.aclu.org/know-your-rights"
+            }
+        ]
+    },
+    {
+        "question": "How can I get to campus?",
+        "answer": "GW’s location in D.C. means there are multiple ways to get to campus: Metro: The Metro is the D.C. subway system. It is a safe and inexpensive method of transportation throughout D.C., and parts of Virginia and Maryland. MetroBus: The MetroBus is the public bus system. Taxi and Uber/Lyft: Taxis and rideshare apps like Uber or Lyft are easy ways to travel around the city. Campus Shuttles: GW has three free shuttles that travel between GW campuses: 1) Vern Express, 2) VSTC Express, 3) Innovation Center Metro Shuttle Capital Bikeshare: This program lets customers rent bikes in D.C. and surrounding areas.",
+        "links": [
+            {
+                "text": "Metro",
+                "source": "https://www.wmata.com/"
+            },
+            {
+                "text": "MetroBus",
+                "source": "https://www.wmata.com/service/bus/"
+            },
+            {
+                "text": "shuttles",
+                "source": "https://transportation.gwu.edu/campus-shuttles"
+            },
+            {
+                "text": "program",
+                "source": "https://capitalbikeshare.com/"
+            }
+        ]
+    },
+    {
+        "question": "What is UPass, and how do I get it?",
+        "answer": "The George Washington University participates in the Washington Metropolitan Area Transit Authority’s U-Pass program . U-Pass provides full-time students unlimited rides on the Metro and Metrobus for a discounted fee. To get U-Pass, graduate students must: Be enrolled in 9 or more on-campus credits For academic year 2025-26, pay a $100 non-refundable transportation fee each semester through their Student Account eBill To use U-Pass in the 2025–26 school year, you must pick up a GW U-Pass card at a distribution event ; U-Pass cannot be loaded onto a personal SmarTrip card. You can add U-Pass to your Apple Wallet , but once you do, the physical card will be deactivated. Students are eligible for one U-Pass card each year and must pay a $20 replacement fee if the card is lost. U-Pass works only during fall and spring semesters, not during the summer or winter breaks. It usually starts on the first day of classes and ends on the last day of final exams, however, exact dates will be announced each semester. If you have questions or problems, email the U-Pass team at upass@gwu.edu .",
+        "links": [
+            {
+                "text": "U-Pass program",
+                "source": "https://business-services.gwu.edu/upass"
+            },
+            {
+                "text": "distribution event",
+                "source": "https://business-services.gwu.edu/upass"
+            },
+            {
+                "text": "add U-Pass to your Apple Wallet",
+                "source": "https://business-services.gwu.edu/u-pass%C2%AE-apple-wallet"
+            }
+        ]
+    },
+    {
+        "question": "What discounts and free resources are available to me as a GW student?",
+        "answer": "Being a university student can be expensive, so make sure you use the free and discounted resources available to GW students! Here are some helpful options: Get Your Money’s Worth – A list of free resources made by GW’s Student Government. Tip: Some of these are only for undergraduate students, so double-check before using! Business Discounts – Many stores give discounts when you use your GW email. Free News Access – GW students can read The New York Times, The Washington Post, and The Wall Street Journal online for free. GW VPN – Use this tool to access GW systems and resources while off campus. Microsoft 365 – GW students get free access to Microsoft programs including Word, PowerPoint, Excel, OneDrive, and Teams. Capital Bikeshare Discount – GW offers students a discounted annual bike rental membership to Capital Bikeshare so you have more options to get around. On-Campus Resources – A guide to useful services and resources that are available to all GW students. UNiDAYS – A website where you can find student discounts from a variety of companies.",
+        "links": [
+            {
+                "text": "Get Your Money’s Worth",
+                "source": "https://drive.google.com/file/d/1D1z5so9cG60fnVq3W3VnhhOiTKUAPhZf/view"
+            },
+            {
+                "text": "Business Discounts",
+                "source": "https://business-services.gwu.edu/student-discount-page"
+            },
+            {
+                "text": "Free News Access",
+                "source": "https://library.gwu.edu/digital-news-subscriptions"
+            },
+            {
+                "text": "GW VPN",
+                "source": "https://it.gwu.edu/vpn-global-protect"
+            },
+            {
+                "text": "Microsoft 365",
+                "source": "https://it.gwu.edu/microsoft-365"
+            },
+            {
+                "text": "Capital Bikeshare Discount",
+                "source": "https://transportation.gwu.edu/micro-mobility-gw"
+            },
+            {
+                "text": "On-Campus Resources",
+                "source": "https://business.gwu.edu/current-students/university-resources"
+            },
+            {
+                "text": "UNiDAYS",
+                "source": "https://www.myunidays.com/US/en-US"
+            }
+        ]
+    }
+]
