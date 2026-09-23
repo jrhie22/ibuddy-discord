@@ -1,0 +1,31 @@
+name: Deploy to AWS Lightsail
+
+# once code pushed to main branch, execute ci/cd process
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. download my code via github virtual server
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # 2. connect to aws lightsail using .pem secret key configured
+    - name: Executing remote ssh commands using ssh-key
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.LIGHTSAIL_HOST }}     # Lightsail's IPv4 public address
+        username: ubuntu                        
+        key: ${{ secrets.LIGHTSAIL_SSH_KEY }}   
+        script: |
+          cd /home/ubuntu/discord-bot-ibuddy    # change directory to project folder
+          git pull origin main              
+          source venv/bin/activate          # update python venv and re-execute main.py
+          pip install -r requirements.txt
+          sudo systemctl daemon-reload
+          sudo systemctl enable discord-ibuddy # line 29 and 30 to run bot in lightsail for 24/7
+          sudo systemctl restart discord-ibuddy # discord-ibuddy is the name of the service registered in aws lightsail
